@@ -48,8 +48,12 @@ Küçük, minicik bir peri ya da melektir. Yuvarlak yüzlü, pembe yanaklı, iri
 - İnce iş yapan bir sanatkâr gibidir.
 - Ekibe sonradan katılmıştır.
 
-## Kaptan
-- Arşivdeki adı **Kızıl Sakal**'dır. `[açık soru]` Kalıcı mı olacak? Bkz. `kararlar.md`.
+## Reis — geminin kaptanı
+- Altı dostun **dışından** biridir. Hiyerarşi grubun içine girmez.
+- Kızıl sakallıdır.
+- Otoriter ve gizemlidir. Her zaman olduğundan fazlasını bilir.
+- **Kızıp bağıran biri değildir.** Sesi alçaktır ama herkese ulaşır. Tek bir bakışı, tek bir cümlesi yeter.
+- `[öneri]` Komedisi sessizliğinden doğar. Zeytinyağını içtiğinde bağırmaz. Sakalını siler, uzun uzun bakar. Bu sessizlik bir bağırıştan daha komik ve daha ürkütücüdür.
 
 ---
 

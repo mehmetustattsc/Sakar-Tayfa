@@ -14,10 +14,11 @@
 
 - **Ocakçı = aşçı.** Sakarlığa kızar ama Doruk'u sever. Ona bir amca gibi davranır.
 - **Hoca ve doktor sahneleri kalıyor.** Mehmet bunları ilk masalda kendiliğinden uydurmuştu.
+- **Kaptan = Reis.** Grubun dışından biri. Kızıl sakallı, otoriter, gizemli ve her zaman herkesten fazlasını biliyor. Bağırmıyor, çünkü bu bir çocuk kitabı. Kaya ikinci kaptan olarak Reis ile tayfa arasındaki köprü.
+- `[öneri]` "Bir Bardak Su" hikâyesi **üç akşama** bölünüyor: (1) görev ve ilk kazalar, (2) hoca ve doktor, (3) zeytinyağı ve Reis'in köşkü.
 
 ## Çelişkiler (çözülmeli)
-1. **Kaptan kim?** Kaptan karakterini GPT ekledi. Mehmet'in endişesi şu: altı dostun içinden birini kaptan yapmak dostluğa hiyerarşi katar. `[öneri]` Kaptan tayfanın dışından biri olsun, örneğin geminin sahibi olan "Reis". Böylece hiyerarşi grubun içinde değil dışında kalır. Reis'in öfkesine karşı dostlar Doruk'u birlikte korur ve dostluk bu koruma üzerinden görünür olur. Kaya ikinci kaptan olarak Reis ile tayfa arasındaki köprüdür. Karar Mehmet'te.
-2. **Kaya ve Akman:** Arşivdeki dosyada Kaya güçlü ve merhametli, Akman ise bilge. Mehmet'in tarifinde Kaya planlayıcı, Akman ise avcı. **Mehmet'in tarifi geçerlidir.** Arşiv bu konuda yok sayılır.
+1. **Kaya ve Akman:** Arşivdeki dosyada Kaya güçlü ve merhametli, Akman ise bilge. Mehmet'in tarifinde Kaya planlayıcı, Akman ise avcı. **Mehmet'in tarifi geçerlidir.** Arşiv bu konuda yok sayılır.
 
 ## Açık sorular
 - Okuyucu yaşı 6–9 mu olacak? Metin dili buna göre ayarlanır.
