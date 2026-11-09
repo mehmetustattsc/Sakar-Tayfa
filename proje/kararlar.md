@@ -12,11 +12,12 @@
 - Karakter geçmişleri şimdilik genişletilmeyecek.
 - Kitap resimli olacak. Çizimleri Mehmet yapacak.
 
+- **Ocakçı = aşçı.** Sakarlığa kızar ama Doruk'u sever. Ona bir amca gibi davranır.
+- **Hoca ve doktor sahneleri kalıyor.** Mehmet bunları ilk masalda kendiliğinden uydurmuştu.
+
 ## Çelişkiler (çözülmeli)
-1. **Kaptan kim?** Arşivde Kaptan Kızıl Sakal var, Kaya ise ikinci kaptan. Birinci kaptan tayfanın içinden biri mi, yoksa dışarıdan bir figür mü?
-2. **Aşçı ile Ocakçı:** Arşivde Doruk'u kovalayan öfkeli bir aşçı var. Mehmet'in Ocakçı'sı ise ince işçi bir sanatkâr. Aynı kişi mi olacak? Öyleyse öfkesi nasıl bir tonda olacak?
-3. **Hoca ve doktor sahneleri:** Mehmet'in ilk masalında vardı. Doruk bir çocuk olduğuna göre bu sahneler nasıl uyarlanacak, yoksa tamamen mi çıkacak?
-4. **Kaya ve Akman:** Arşivdeki dosyada Kaya güçlü ve merhametli, Akman ise bilge. Mehmet'in tarifinde Kaya planlayıcı, Akman ise avcı. **Mehmet'in tarifi geçerlidir.** Arşiv bu konuda yok sayılır.
+1. **Kaptan kim?** Kaptan karakterini GPT ekledi. Mehmet'in endişesi şu: altı dostun içinden birini kaptan yapmak dostluğa hiyerarşi katar. `[öneri]` Kaptan tayfanın dışından biri olsun, örneğin geminin sahibi olan "Reis". Böylece hiyerarşi grubun içinde değil dışında kalır. Reis'in öfkesine karşı dostlar Doruk'u birlikte korur ve dostluk bu koruma üzerinden görünür olur. Kaya ikinci kaptan olarak Reis ile tayfa arasındaki köprüdür. Karar Mehmet'te.
+2. **Kaya ve Akman:** Arşivdeki dosyada Kaya güçlü ve merhametli, Akman ise bilge. Mehmet'in tarifinde Kaya planlayıcı, Akman ise avcı. **Mehmet'in tarifi geçerlidir.** Arşiv bu konuda yok sayılır.
 
 ## Açık sorular
 - Okuyucu yaşı 6–9 mu olacak? Metin dili buna göre ayarlanır.
