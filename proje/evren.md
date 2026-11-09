@@ -32,4 +32,6 @@ _Henüz yok. Bölümler yazıldıkça buraya eklenecek._
 5. Kayıp Haritanın Başına Gelenler
 6. Deniz Canavarının En Kötü Günü
 
-Çalışma adı: *Sakar Tayfa ve Bitmek Bilmeyen Felaketler*
+**Kitabın adı: Sakar Tayfa** (Mehmet'in kararı). Arşivdeki "ve Bitmek Bilmeyen Felaketler" eki kullanılmıyor.
+
+**Anlatım:** Biraz masalsı, biraz mitolojik (Mehmet'in kararı).
