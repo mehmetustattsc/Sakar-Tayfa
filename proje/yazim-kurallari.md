@@ -2,6 +2,16 @@
 
 Bu metin önce bir babanın sesinden, gece, yatağın kenarında okunacak. Kitap olarak basılması bunun ardından gelir. Bütün kurallar bu tek gerçeğe bağlıdır.
 
+## İlk dinleyicinin kuralı
+
+Birinci akşam okundu ve Mehmet'in oğlu eğlenmediğini söyledi. Bu, bütün kuralların üstündedir.
+
+- **Önce kahkaha, sonra edebiyat.** Mehmet'in ilk masalı peş peşe gelen kazalardan oluşuyordu ve çocuk onu sevdi. Her sayfada en az bir kaza olur.
+- Cümleler kısadır. Tasvir bir iki cümleyi geçmez. Gizem bölümün sonunda birkaç satır yer tutar, daha fazla değil.
+- Her bölümde çocuğun birlikte söyleyebileceği bir nakarat ya da tekrar eden bir şaka bulunur.
+- Çocuğun önceden bildiği şeyler (zeytinyağı gibi) ona göz kırparak kullanılır. Bilmek onu güldürür.
+- Her okumadan sonra çocuğun tepkisi `kararlar.md`'ye yazılır ve metin ona göre düzeltilir.
+
 ## Anlatıcı
 
 - **Üçüncü kişi ve her şeyi bilen bir anlatıcı.** Olayları, hareketleri ve gerektiğinde karakterlerin içinden geçenleri bilir.
