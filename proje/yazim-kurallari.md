@@ -11,6 +11,9 @@ Birinci akşam okundu ve Mehmet'in oğlu eğlenmediğini söyledi. Bu, bütün k
 - Her bölümde çocuğun birlikte söyleyebileceği bir nakarat ya da tekrar eden bir şaka bulunur.
 - Çocuğun önceden bildiği şeyler (zeytinyağı gibi) ona göz kırparak kullanılır. Bilmek onu güldürür.
 - Her okumadan sonra çocuğun tepkisi `kararlar.md`'ye yazılır ve metin ona göre düzeltilir.
+- **Ne işe yarıyor (ikinci akşamdan sonra):** Sakarlığın sonucunun başkalarına dokunması onu çok güldürüyor (havaya uçan takke gibi). Ama henüz hikâyenin kendisine bağlanmadı, sadece eğlence için dinliyor.
+- Hikâyeye ısındırmanın yolu Doruk'u sevdirmektir. Doruk'un fark ettiği şey önemli çıkmalı. Gizem, çocuğun göreceği bir görüntüyle verilir. Yetişkince bir ipucuyla verilmez.
+- **Karakterler zorlanmaz.** Sahnenin ihtiyacı olmayan karakter o sahnede yer almaz. Bütün karakterlerin rolü kitap boyunca dengelenir, her bölümde değil.
 
 ## Anlatıcı
 
