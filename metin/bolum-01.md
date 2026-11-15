@@ -1,4 +1,4 @@
-# Bir Bardak Su — Birinci Akşam
+# 1. Yine mi Sen?
 
 Durum: **ilk taslak**
 
@@ -20,7 +20,7 @@ Akman ağın ucunu bağlamayı bitirmeden, başını bile kaldırmadan konuştu:
 
 "Bırak, boş ver."
 
-Bu gemide bu iki kelimenin anlamı şuydu: "Çocuk bir şey bulmuş, sonra bakarız." Usta bunu bilirdi. Çekiç yere indi.
+Usta'nın çekici yere indi.
 
 Dümenin başındaki Kaya, tek kaşını kaldırdı.
 

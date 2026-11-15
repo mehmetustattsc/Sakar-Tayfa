@@ -17,6 +17,9 @@
 - **Kaptan = Reis.** Grubun dışından biri. Kızıl sakallı, otoriter, gizemli ve her zaman herkesten fazlasını biliyor. Bağırmıyor, çünkü bu bir çocuk kitabı. Kaya ikinci kaptan olarak Reis ile tayfa arasındaki köprü.
 - `[öneri]` "Bir Bardak Su" hikâyesi **üç akşama** bölünüyor: (1) görev ve ilk kazalar, (2) hoca ve doktor, (3) zeytinyağı ve Reis'in köşkü.
 
+- **İlk kitap yedi bölüm**, tek bir macera: Bir bardak su → iki taş → Reis'in sırrı → Yedi Kardeş → Yadakent → martı ve üçüncü taş. Doruk sonunda geminin gözcüsü oluyor. Bütün metin `kitap/sakar-tayfa.md` dosyasında.
+- Yan karakterler: Hoca, Hekim, Reis'in papağanı Paşa ("Hm!") ve gemiyi takip eden martı.
+
 ## Çelişkiler (çözülmeli)
 1. **Kaya ve Akman:** Arşivdeki dosyada Kaya güçlü ve merhametli, Akman ise bilge. Mehmet'in tarifinde Kaya planlayıcı, Akman ise avcı. **Mehmet'in tarifi geçerlidir.** Arşiv bu konuda yok sayılır.
 

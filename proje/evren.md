@@ -22,7 +22,12 @@
 Umay Ana, Ülgen, Erlik Han, Ak Ana, Tulpar, Yada Taşı, Tepegöz ve Ergenekon. Kullanılmadan önce her birinin ne olduğu doğrulanır.
 
 ## Dünyanın kendi folkloru (uydurma, gerçek mitoloji olarak sunulmaz)
-_Henüz yok. Bölümler yazıldıkça buraya eklenecek._
+- **Yadakent:** denizin dibinde uyuyan şehir. Yadacıları üç taşla denizi uslu tutardı.
+- **Üç taş:** yada taşından esinlenmiş, ortası delik, içinde ışık yanan taşlar. Birbirini çeker, şehrin ışıklarıyla birlikte yanıp söner. Üçü bir araya gelince kapıda ninni gibi bir ezgi çalar.
+- **Yedi Kardeş Kayalıkları:** şehrin önündeki fırtınalı geçit. Doğru yolu sualtındaki ışıklar gösterir.
+- **Altın tüy:** ikinci kitabın kapısı (Tulpar?).
+
+Gerçek mitolojiden kullanılanlar: yada taşı ve yadacı (hava olaylarına hükmeden taş ve bilge), su iyesi (suyun koruyucu ruhu), Umay Ana, Tulpar.
 
 ## İlk kitap: arşivdeki macera başlıkları (onaylanmadı)
 1. Bir Bardak Suyun Peşinde

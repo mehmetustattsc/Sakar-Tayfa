@@ -1,4 +1,4 @@
-# Bir Bardak Su — Üçüncü Akşam
+# 3. Zeytin Tadında
 
 Durum: **ilk taslak**
 
@@ -34,7 +34,7 @@ Tak. Tak. Tak.
 
 "Gel."
 
-Reis'in odası gemideki en güzel odaydı. Duvarlarda haritalar, köşede pirinç bir dürbün, yerde kalın, kırmızı bir halı vardı. Masanın altında demir kulplu, kocaman, eski bir sandık dururdu. O sandığı kimse açık görmemişti.
+Reis'in odası gemideki en güzel odaydı. Duvarlarda haritalar, köşede pirinç bir dürbün, yerde kalın, kırmızı bir halı vardı. Pencerenin yanındaki tünekte yeşil bir papağan uyukluyordu. Masanın altında demir kulplu, kocaman, eski bir sandık dururdu. O sandığı kimse açık görmemişti.
 
 Reis masasına eğilmiş, bir haritaya bakıyordu. Kızıl sakalı haritanın üstüne dökülmüştü.
 

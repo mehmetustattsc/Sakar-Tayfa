@@ -1,4 +1,4 @@
-# Bir Bardak Su — İkinci Akşam
+# 2. Hoca, Hekim ve Boş Bardak
 
 Durum: **ilk taslak**
 
