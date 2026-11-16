@@ -66,7 +66,7 @@ Usta oğlunun omzuna elini koydu.
 
 Ve Doruk yola çıktı.
 
-<p align="center">⁂</p>
+⁂
 
 Gemide bir bardak suyun yolu otuz adımdı. Doruk o sabah bu yolu kırk dakikada, üç kazayla ve bir efsaneyle yürüdü.
 
@@ -124,7 +124,7 @@ Sonra bir bardak suyu kendi doldurdu ve Doruk'un eline verdi. Bardağı tutan k�
 
 "Gözlerin nereye giderse gitsin, ellerin bardakta kalsın."
 
-<p align="center">⁂</p>
+⁂
 
 Doruk mutfaktan çıktığında güvertede bir kurul toplanmıştı.
 
@@ -144,7 +144,7 @@ Akman da bir yere bakıyordu: Doruk'un cebine. Kumaşın arasından belli belirs
 
 Akman bir şey söylemedi. Akman hiçbir zaman ilk konuşan olmazdı.
 
-<p align="center">⁂</p>
+⁂
 
 Kıç köşkünde Reis, masasının başında suyunu bekliyordu.
 
@@ -170,7 +170,7 @@ Kimse dinlemedi. Merdivenlerden indiler. Pat pat pat! Bir köşeden döndüler. 
 
 Ama bardak? Bardak dimdik! Bir damla bile dökülmedi.
 
-<p align="center">⁂</p>
+⁂
 
 Hoca, geminin en dibinde otururdu. Kırk yolda kırk kitap bitirmiş, kırk köyün suyunda pişen çorbayı içmişti. Sakalı o kadar uzundu ki ucunu kuşağına sokardı, yoksa basıp düşerdi.
 
@@ -228,7 +228,7 @@ Sonra Doruk'a baktı ve sesini biraz alçalttı:
 
 Peki bardak? Bardak dimdik! Bir damla bile dökülmedi.
 
-<p align="center">⁂</p>
+⁂
 
 "Hoca çare olmadı," dedi Korkut, dolaptan çıkarken. Alnında iki şiş vardı. Biri kirişten, biri dolaptan. "O zaman hekime!"
 
@@ -300,7 +300,7 @@ Bardak dimdikti.
 
 Ama bomboştu.
 
-<p align="center">⁂</p>
+⁂
 
 Doruk koridorda tek başına kaldı. Elindeki boş bardağa baktı.
 
@@ -342,7 +342,7 @@ Doruk merdivenleri çıktı. Güvertede rüzgâr vardı, martılar vardı, bir d
 
 Ama fıçının yanından ayrılmadı. Ne olur ne olmaz.
 
-<p align="center">⁂</p>
+⁂
 
 Doruk, Reis'in kapısını çaldı.
 
@@ -382,7 +382,7 @@ Doruk testiye baktı. Testinin karnında küçük bir zeytin dalı çizilmişti.
 
 "Ah," dedi Doruk.
 
-<p align="center">⁂</p>
+⁂
 
 Reis ayağa kalktı. Ama elleri yağlıydı. Testi elinden kaydı, yere düştü, yuvarlandı ve içindeki bütün zeytinyağı halıya, halıdan da tahtalara yayıldı.
 
@@ -404,7 +404,7 @@ Başında bir harita vardı, şapka gibi. Elinde dürbün. Sakalında zeytinyağ
 
 "Hm," dedi Reis.
 
-<p align="center">⁂</p>
+⁂
 
 Doruk ona yardım etmek için koştu.
 
@@ -430,7 +430,7 @@ Taşın altına, dalgaların da altına, minicik kuleler ve kubbeler çizilmişt
 
 Denizin altında bir şehir.
 
-<p align="center">⁂</p>
+⁂
 
 Reis yanına geldi. Bu sefer kaymadı. Dizlerinin üstüne çöktü ve uzun uzun Doruk'un avucuna baktı.
 
@@ -460,7 +460,7 @@ Sonra Doruk'un eline bir bardak verdi.
 
 "Bir de su getir. Bu sefer gerçek su."
 
-<p align="center">⁂</p>
+⁂
 
 Doruk köşkten çıktı.
 
@@ -486,7 +486,7 @@ Doruk kapıyı çaldı ve suyu Reis'e verdi. Reis içti.
 
 Bütün gemi derin bir nefes aldı.
 
-<p align="center">⁂</p>
+⁂
 
 O gece Doruk uyuyamadı.
 
@@ -536,7 +536,7 @@ Sonra başını yana eğdi, Doruk'a baktı ve yeni bir şey söyledi:
 
 Kaya öyle bir güldü ki duvara yaslanmak zorunda kaldı. Reis'in tek kaşı bir parmak havaya kalktı. Paşa sustu.
 
-<p align="center">⁂</p>
+⁂
 
 Reis balık derisi haritayı masaya serdi. İki taşı ortasına koydu. Taşlar birbirine yapışmıştı, ikisi tek bir ışıkla yanıyordu.
 
@@ -564,7 +564,7 @@ Kaya ıslık çaldı.
 
 "Bin kere yürüdünüz," diye fısıldadı İnci, Doruk'un kulağına. "Ama bir kere bile aşağı bakmadınız."
 
-<p align="center">⁂</p>
+⁂
 
 Doruk bir şey fark etti.
 
@@ -590,7 +590,7 @@ Reis bardağa baktı. Bir yudum aldı.
 
 Paşa'nın üstüne yalnızca birkaç damla sıçradı. Ama bu, Paşa'nın kırk yılda gördüğü en büyük felaketti. Bütün tüylerini kabarttı ve bir hafta boyunca Doruk'la konuşmadı.
 
-<p align="center">⁂</p>
+⁂
 
 Reis parmağını haritanın üstünde güneye kaydırdı. Parmağı yedi küçük siyah noktanın üstünde durdu.
 
@@ -630,7 +630,7 @@ Sonra sis çöktü.
 
 "Plan mükemmeldi," dedi Kaya. "Ama deniz okumamış."
 
-<p align="center">⁂</p>
+⁂
 
 Sonra fırtına geldi.
 
@@ -660,7 +660,7 @@ Hoca'nın takkesi fırladı. Yükseldi, yükseldi, direğin tepesine kadar çık
 
 Martı takkeyle kaldı. Takke de martıyla.
 
-<p align="center">⁂</p>
+⁂
 
 Yukarıda bir yelken bağı koptu. Yelken bir bayrak gibi şaklamaya başladı. Böyle giderse direği kıracaktı.
 
@@ -672,7 +672,7 @@ Alemdar hiçbir şey söylemedi. Dişlerinin arasına bir ip aldı ve tırmandı
 
 Ve bitirdi.
 
-<p align="center">⁂</p>
+⁂
 
 Herkes sisin içinde kayalıkları arıyordu. Herkes önüne bakıyordu.
 
@@ -702,7 +702,7 @@ Gemi ışıkları takip etti. Sağdan kara bir kaya geçti. O kadar yakındı ki
 
 Üç kardeş geçti. Dört. Beş.
 
-<p align="center">⁂</p>
+⁂
 
 Sonra büyük dalga geldi.
 
@@ -754,7 +754,7 @@ Korkut her zaman "Ben korkmam, tedbir alırım!" derdi. Bu sefer biraz düşünd
 
 Akman, Korkut'un omzuna bir şaplak attı. Hiçbir şey söylemedi. Akman'ın bir şaplağı başkasının yüz cümlesinden daha değerliydi.
 
-<p align="center">⁂</p>
+⁂
 
 Altıncı kardeş geçti. Yedinci.
 
@@ -808,7 +808,7 @@ Cümlesini bitirmedi. Kollarını sıvadı. Usta kazana halat ve ağırlık bağ
 
 Şişe dibi bir pencere olmuştu. Ocakçı azdan çok çıkarırdı.
 
-<p align="center">⁂</p>
+⁂
 
 Kazana üç kişi sığıyordu: Reis, Doruk ve Akman.
 
@@ -822,7 +822,7 @@ Kazan suya indi.
 
 BLUP.
 
-<p align="center">⁂</p>
+⁂
 
 Aşağısı önce yeşildi. Sonra mavi oldu. Sonra lacivert.
 
@@ -840,7 +840,7 @@ Kapının arkasında Yadakent uyuyordu. Kubbeleri yosun tutmuştu. Pencerelerini
 
 "İki taş," dedi Reis. Sesi titriyordu. "Üç oyuk."
 
-<p align="center">⁂</p>
+⁂
 
 Tam o sırada kazanın altından kocaman bir kafa girdi.
 
@@ -860,7 +860,7 @@ Reis sakalının ucunu inceledi. Bir parmak kısalmıştı.
 
 "Kırk yıldır bu sakala kimse dokunmamıştı," dedi.
 
-<p align="center">⁂</p>
+⁂
 
 Doruk taşları ayırdı ve avucuna aldı. Elini kazanın kenarından dışarı uzattı. Su soğuktu. Deniz suyundan bile soğuk.
 
@@ -908,7 +908,7 @@ Gagasında da bir taş vardı. Ortası delik, içinde bir ışık gidip gelen bi
 
 Herkes o martıyı görmüştü. Ama kimse gagasına bakmamıştı.
 
-<p align="center">⁂</p>
+⁂
 
 "Yakalayın şu martıyı," dedi Reis.
 
@@ -960,7 +960,7 @@ Reis ağın içinde, kızıl sakalı deliklerden sarkmış, bir süre durdu.
 
 Paşa da tüneğinden onayladı: "Hm!"
 
-<p align="center">⁂</p>
+⁂
 
 Yalnız iki kişi koşmuyordu.
 
@@ -1010,7 +1010,7 @@ Akman küpeşteden doğruldu.
 
 "Ben demiştim," dedi. "Av beklenir."
 
-<p align="center">⁂</p>
+⁂
 
 O öğleden sonra Koca Kazan bir kez daha suya indi.
 
@@ -1040,13 +1040,13 @@ Ve İnci'ye de gülümsedi.
 
 İnci'nin yanakları her zamankinden de pembe oldu.
 
-<p align="center">⁂</p>
+⁂
 
 Yukarıda tayfa küpeşteye dizilmiş bekliyordu. Birden deniz ışıklandı. Geminin altı bir yıldız halısı gibi parıldadı. Uzakta, Yedi Kardeş'in üstündeki kara bulutlar dağıldı. Güneş yedi kardeşin yedisini birden ısıttı.
 
 Deniz uslu bir kedi gibi yattı.
 
-<p align="center">⁂</p>
+⁂
 
 Akşam Reis bütün tayfayı güverteye topladı. Usta oradaydı, Kaya, Akman, Korkut, Alemdar, Ocakçı. Hoca vardı, takkesiz. Hekim vardı, ağsız. Paşa da Reis'in omzundaydı.
 
@@ -1066,7 +1066,7 @@ Ocakçı burnunu çekti. "Gözüme biber kaçtı," dedi.
 
 Mutfakta o gün biber yoktu.
 
-<p align="center">⁂</p>
+⁂
 
 Reis yerine döndü. Kızıl sakalını sıvazladı, kısalan ucunu bir kez daha inceledi.
 
